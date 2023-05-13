@@ -1,0 +1,44 @@
+body
+{
+    background-color: hotpink;
+
+}
+
+#score
+{
+    font-size: 35px;
+    margin-left:20px;
+    float: left;
+}
+
+#timer
+{
+    font-size:35px;
+    float: right;
+    margin-right:70px;
+}
+
+
+#show_sketch
+{
+    float: right;
+}
+
+#your_sketch,#confidence
+{
+    font-size: 22px;
+}
+
+
+#sketch_name
+{
+    color: red;
+    font-size: 22px;
+}
+
+h1
+{
+    color: blue;
+    background-color: cornsilk;
+    font-weight: bold;
+}
